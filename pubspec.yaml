@@ -1,0 +1,29 @@
+name: swing_page_transition
+description: >-
+  A 3D swing page transition: the new page rotates in like a book page while
+  the one below slides back, shrinks and dims. Drop-in PageTransitionsBuilder.
+version: 0.1.0
+repository: https://github.com/RB105/swing_page_transition
+topics:
+  - animation
+  - transition
+  - navigation
+  - page-transition
+  - ui
+
+environment:
+  sdk: ">=3.6.0 <4.0.0"
+  flutter: ">=3.27.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+screenshots:
+  - description: A venue page swings in over a list, then swings back out.
+    path: doc/demo.gif
