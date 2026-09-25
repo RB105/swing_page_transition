@@ -5,7 +5,7 @@ side, rotating around the vertical axis and zooming down to size like a book
 page being turned, while the page underneath slides back, shrinks and dims.
 
 <p align="center">
-  <img src="doc/demo.gif" width="300" alt="The swing page transition: a venue page swings in over a list and back out">
+  <img src="https://raw.githubusercontent.com/RB105/swing_page_transition/main/doc/demo.gif" width="300" alt="The swing page transition: a venue page swings in over a list and back out">
 </p>
 
 The defaults reproduce the page transition of the Wolt app, following
